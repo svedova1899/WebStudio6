@@ -23,6 +23,7 @@ a {
 .logo-div {
   font-family: "Raleway", sans-serif;
   font-size: 26px;
+  color: #000000;
 }
 .logo-div__span {
   color: #2196F3;
@@ -59,7 +60,21 @@ a {
 }
 
 .header-nav {
-  width: 1170px;
   display: flex;
   align-items: center;
+}
+
+.header-list-second {
+  width: 356px;
+  gap: 30px;
+  margin-left: 300px;
+  display: flex;
+}
+.header-list-second__link {
+  font-family: "Roboto", sans-serif;
+  color: #757575;
+  font-size: 14px;
+}
+.header-list-second__link:hover {
+  color: #2196F3;
 }/*# sourceMappingURL=main.css.map */
