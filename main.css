@@ -77,4 +77,32 @@ a {
 }
 .header-list-second__link:hover {
   color: #2196F3;
+}
+
+.order-a-service {
+  background: url(/photo/png/people.png);
+  width: 1600px;
+  height: 600px;
+  margin: 0 auto;
+  margin-top: -26px;
+}
+.order-a-service__title {
+  font-family: "Roboto", sans-serif;
+  color: #FFFFFF;
+  font-size: 44px;
+  text-align: center;
+  padding-top: 200px;
+}
+.order-a-service__button {
+  background-color: #2196F3;
+  border: none;
+  border-radius: 5px;
+  margin-left: 692px;
+}
+.order-a-service__button-title {
+  font-family: "Roboto", sans-serif;
+  color: #FFFFFF;
+  font-size: 16px;
+  padding-left: 32px;
+  padding-right: 32px;
 }/*# sourceMappingURL=main.css.map */

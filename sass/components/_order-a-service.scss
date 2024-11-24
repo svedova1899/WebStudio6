@@ -1,0 +1,27 @@
+.order-a-service{
+    background: url(/photo/png/people.png);
+    width: 1600px;
+    height: 600px;
+    margin: 0 auto;
+    margin-top: -26px;
+    &__title{
+        font-family: $roboto-medium;
+        color: $order-text-color;
+        font-size: 44px;
+        text-align: center;
+        padding-top: 200px;
+    }
+    &__button{
+        background-color: $logo-color;
+        border: none;
+        border-radius: 5px;
+        margin-left: 692px;
+    }
+    &__button-title{
+        font-family: $roboto-medium;
+        color: $order-text-color;
+        font-size: 16px;
+        padding-left: 32px;
+        padding-right: 32px;
+    }
+}
